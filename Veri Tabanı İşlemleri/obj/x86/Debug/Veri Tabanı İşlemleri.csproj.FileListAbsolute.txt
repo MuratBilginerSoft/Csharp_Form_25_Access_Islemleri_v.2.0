@@ -1,0 +1,23 @@
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\bin\Debug\Veri Tabanı İşlemleri.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\bin\Debug\Veri Tabanı İşlemleri.pdb
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\obj\x86\Debug\Veri_Tabanı_İşlemleri.Form1.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\obj\x86\Debug\Veri_Tabanı_İşlemleri.Properties.Resources.resources
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.csproj.GenerateResource.Cache
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.exe
+C:\Users\murat\Desktop\ \6 C# 2012\Veri Tabanı İşlemleri\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\bin\Debug\Veri Tabanı İşlemleri.exe
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\bin\Debug\Veri Tabanı İşlemleri.pdb
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.csprojResolveAssemblyReference.cache
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\obj\x86\Debug\Veri_Tabanı_İşlemleri.Form1.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\obj\x86\Debug\Veri_Tabanı_İşlemleri.Properties.Resources.resources
+G:\M & B\1 Murat\5 Yazılım\1 C# Programlama\2 Kod Bank Projeler\3 Access Veri Tabanı İşlemleri 2\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.csproj.GenerateResource.Cache
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.exe
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.pdb
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\bin\Debug\Veri Tabanı İşlemleri.exe
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\bin\Debug\Veri Tabanı İşlemleri.pdb
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.csprojResolveAssemblyReference.cache
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\obj\x86\Debug\Veri_Tabanı_İşlemleri.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\obj\x86\Debug\Veri_Tabanı_İşlemleri.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\78 Access İşlemleri v2.0\Veri Tabanı İşlemleri\obj\x86\Debug\Veri Tabanı İşlemleri.csproj.GenerateResource.Cache
